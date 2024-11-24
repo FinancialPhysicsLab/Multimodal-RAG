@@ -1,0 +1,7 @@
+.vscode/*
+.env
+env.yaml
+account.json
+.env.dev
+.DS_Store
+__pycache__
